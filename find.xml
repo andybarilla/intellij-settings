@@ -18,7 +18,7 @@
     <mask>*.yaml</mask>
     <mask>*.iml</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

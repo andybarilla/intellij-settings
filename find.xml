@@ -20,6 +20,8 @@
     <mask>*.iml</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.avro</mask>
+    <mask>*.avsc</mask>
     <mask>*.java</mask>
   </component>
 </application>

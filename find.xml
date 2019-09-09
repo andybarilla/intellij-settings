@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>device-bundle-state.*</mask>
-    <mask>*.js</mask>
     <mask>*App*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.py</mask>
@@ -22,5 +22,6 @@
     <mask>*.avsc</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>

@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="reopenLastProject" value="false" />
+    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -14,7 +15,6 @@
     <entry key="mac.editor.thumb.default.fill.max" value="150" />
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
   </component>

@@ -19,9 +19,9 @@
     <mask>*.sql</mask>
     <mask>*.avro</mask>
     <mask>*.avsc</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.java</mask>
   </component>
 </application>

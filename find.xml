@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +13,6 @@
     <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*Handler.java</mask>
-    <mask>*.properties</mask>
     <mask>*.yaml</mask>
     <mask>*.iml</mask>
     <mask>*.avro</mask>
@@ -25,5 +22,6 @@
     <mask>*.less</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

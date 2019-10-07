@@ -20,9 +20,9 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
-    <mask>*.sh</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>

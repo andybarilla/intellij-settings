@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="Update*.java" />
+    <option name="FILE_MASK" value="*.avsc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -16,7 +16,6 @@
     <mask>*Handler.java</mask>
     <mask>*.iml</mask>
     <mask>*.avro</mask>
-    <mask>*.avsc</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.sh</mask>
@@ -29,5 +28,6 @@
     <mask>*.java</mask>
     <mask>*cache*.java</mask>
     <mask>Update*.java</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>

@@ -23,10 +23,10 @@
     <mask>*.properties</mask>
     <mask>*.yaml</mask>
     <mask>*processor.java</mask>
-    <mask>*.java</mask>
     <mask>*cache*.java</mask>
     <mask>Update*.java</mask>
     <mask>*.avsc</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>

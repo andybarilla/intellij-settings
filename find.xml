@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -27,8 +28,8 @@
     <mask>*processor.java</mask>
     <mask>*cache*.java</mask>
     <mask>Update*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.avsc</mask>
+    <mask>*.sql</mask>
   </component>
 </application>

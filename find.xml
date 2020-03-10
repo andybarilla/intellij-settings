@@ -28,5 +28,6 @@
     <mask>*.java</mask>
     <mask>*.avsc</mask>
     <mask>*.sql</mask>
+    <mask>plan.js</mask>
   </component>
 </application>

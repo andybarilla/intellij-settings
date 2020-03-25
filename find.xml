@@ -18,7 +18,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.sh</mask>
-    <mask>*.xml</mask>
     <mask>*Test*</mask>
     <mask>*.properties</mask>
     <mask>*.yaml</mask>
@@ -30,5 +29,6 @@
     <mask>plan.js</mask>
     <mask>*.avsc</mask>
     <mask>*.hbs</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

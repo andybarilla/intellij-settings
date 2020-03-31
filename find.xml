@@ -28,7 +28,7 @@
     <mask>plan.js</mask>
     <mask>*.avsc</mask>
     <mask>*.hbs</mask>
-    <mask>*.xml</mask>
     <mask>*Test.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

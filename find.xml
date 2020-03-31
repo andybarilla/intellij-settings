@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -12,7 +11,6 @@
     <mask>*.mxml</mask>
     <mask>device-bundle-state.*</mask>
     <mask>*App*.java</mask>
-    <mask>*Test.java</mask>
     <mask>*.py</mask>
     <mask>*Handler.java</mask>
     <mask>*.iml</mask>
@@ -32,5 +30,6 @@
     <mask>*.avsc</mask>
     <mask>*.hbs</mask>
     <mask>*.xml</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>

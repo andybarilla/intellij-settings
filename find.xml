@@ -29,7 +29,7 @@
     <mask>*Test.java</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
-    <mask>*.avsc</mask>
     <mask>*Boarding*.java</mask>
+    <mask>*.avsc</mask>
   </component>
 </application>

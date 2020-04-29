@@ -25,11 +25,11 @@
     <mask>Update*.java</mask>
     <mask>plan.js</mask>
     <mask>*.hbs</mask>
-    <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>*Boarding*.java</mask>
     <mask>*.avsc</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

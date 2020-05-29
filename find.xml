@@ -31,5 +31,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>

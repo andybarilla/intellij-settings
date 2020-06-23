@@ -27,10 +27,10 @@
     <mask>*.avsc</mask>
     <mask>*.xml</mask>
     <mask>*Boarding*.java</mask>
-    <mask>*Test.java</mask>
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
